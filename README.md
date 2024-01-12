@@ -28,15 +28,23 @@ Usage
 Use the provided admin credentials or register new users.
 
 2. Main Menu Options:
+   
 r: Register a new user (admin only).
+
 a: Add a new task.
+
 va: View all tasks.
+
 vm: View tasks assigned to the logged-in user.
+
 gr: Generate reports (admin only).
+
 ds: Display statistics (admin only).
+
 e: Exit the program.
 
-3. Notes:
+
+4. Notes:
 Open the entire folder in Visual Studio Code.
 The program looks for text files in the root directory.
 
