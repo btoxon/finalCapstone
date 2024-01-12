@@ -6,7 +6,9 @@ A command-line Python program for efficient task management. This system allows 
 Table of Contents:
 
 Installation
+
 Usage
+
 Credits
 
 
