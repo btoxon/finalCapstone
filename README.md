@@ -3,7 +3,7 @@ Task Management System
 Description
 A command-line Python program for efficient task management. This system allows users to register, log in, add tasks, and generate reports. Admin privileges provide additional functionalities like user registration and report generation.
 
-Table of Contents
+Table of Contents:
 Installation
 Usage
 Credits
@@ -35,7 +35,7 @@ The program looks for text files in the root directory.
 
 
 
-Credits
+Credits:
 Benjamin Taiwo
 
 
