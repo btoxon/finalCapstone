@@ -12,6 +12,10 @@ Usage
 Credits
 
 
+
+
+
+
 Installation
 1. Clone the repository:git clone https://github.com/your-username/task-management-system.git
 2. Open the entire folder in Visual Studio Code to ensure correct file paths.
