@@ -50,7 +50,5 @@ The program looks for text files in the root directory.
 
 
 
-Credits:
-Benjamin Taiwo
 
 
